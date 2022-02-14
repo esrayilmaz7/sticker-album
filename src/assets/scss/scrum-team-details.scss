@@ -1,0 +1,19 @@
+@import "./common/mixin.scss";
+
+.scrum-team-details {
+  @include center-items(column);
+  padding: 10px;
+
+  img {
+    max-width: 300px;
+  }
+
+  @media only screen and (max-width: 600px) {
+    img {
+      width: 230px;
+    }
+    p {
+      margin: 0;
+    }
+  }
+}

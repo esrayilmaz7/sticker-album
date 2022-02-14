@@ -1,0 +1,39 @@
+@import "./variables.scss";
+
+@mixin button(
+  $background-color,
+  $hover-background-color,
+  $padding,
+  $width,
+  $font-size,
+  $line-height,
+  $margin
+) {
+  font-family: Roboto;
+  font-size: $font-size;
+  line-height: $line-height;
+  font-weight: bold;
+  letter-spacing: 2.1px;
+  text-align: center;
+  color: $color-button-text;
+  background-color: $background-color;
+  border-radius: 10px;
+  width: $width;
+  outline-style: none;
+  padding: $padding;
+  text-transform: uppercase;
+  border-style: none;
+  transition: all 0.3s ease;
+  margin: $margin;
+  cursor: pointer;
+
+  &:hover {
+    background-color: $hover-background-color;
+  }
+}
+
+@mixin center-items($flex-direction) {
+  display: flex;
+  flex-direction: $flex-direction;
+  align-items: center;
+}

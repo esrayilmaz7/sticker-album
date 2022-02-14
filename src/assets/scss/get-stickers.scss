@@ -1,0 +1,75 @@
+@import "./common/variables.scss";
+@import "./common/mixin.scss";
+
+.get-sticker {
+  &__button {
+    @include button(
+      $color-button,
+      $color-button-hover,
+      0 30px,
+      auto,
+      unset,
+      54px,
+      16px
+    );
+  }
+
+  @media only screen and (max-width: 600px) {
+    @include center-items(column);
+
+    &__button {
+      @include button(
+        $color-button,
+        $color-button-hover,
+        0 12px,
+        auto,
+        unset,
+        24px,
+        12px
+      );
+    }
+  }
+}
+
+.sticker-sets {
+  display: flex;
+
+  &__title {
+    @include center-items(column);
+
+    h3,
+    p {
+      margin: 5px;
+    }
+  }
+
+  &__footer {
+    @include center-items(initial);
+  }
+
+  &__close-button {
+    @include button(
+      $color-button,
+      $color-button-hover,
+      0 30px,
+      100%,
+      unset,
+      54px,
+      16px
+    );
+  }
+
+  @media only screen and (max-width: 600px) {
+    &__close-button {
+      @include button(
+        $color-button,
+        $color-button-hover,
+        0 12px,
+        100%,
+        unset,
+        24px,
+        12px
+      );
+    }
+  }
+}

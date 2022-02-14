@@ -1,0 +1,182 @@
+{
+  "1": {
+    "teamInformation": {
+      "teamName": "Web Team",
+      "logo": "https://static1.srcdn.com/wordpress/wp-content/uploads/2020/06/Avatar-team-avatar.jpg?q=50&fit=crop&w=960&h=500&dpr=1.5",
+      "slogan": "Best team web team",
+      "description": "aşırı iyi bir takımızdır"
+    },
+    "members": [
+      {
+        "id": 1,
+        "name": "Aang",
+        "photo": "https://playtusu.com/wp-content/uploads/2021/11/avatar-the-last-airbender.jpg",
+        "positionTitle": "Junior Frontend Developer",
+        "experienceTime": 2,
+        "isFamiliar": false
+      },
+      {
+        "id": 2,
+        "name": "Katara",
+        "photo": "https://carboncostume.com/wordpress/wp-content/uploads/2020/04/Katara-from-Avatar-The-Last-Airbender.png",
+        "positionTitle": "Product Manager",
+        "experienceTime": 5,
+        "isFamiliar": false
+      },
+      {
+        "id": 3,
+        "name": "Zuko",
+        "photo": "https://decider.com/wp-content/uploads/2020/06/avatar-zuko.jpg?quality=80&strip=all",
+        "positionTitle": "Junior Frontend Developer",
+        "experienceTime": 2,
+        "isFamiliar": false
+      },
+      {
+        "id": 4,
+        "name": "Sokka",
+        "photo": "https://i.pinimg.com/originals/bc/80/91/bc80918856287e30603198c6574ebfca.jpg",
+        "positionTitle": "Product Manager",
+        "experienceTime": 5,
+        "isFamiliar": false
+      },
+      {
+        "id": 5,
+        "name": "Toph",
+        "photo": "https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:kids-assets:/nick/properties/avatar/characters/toph-character-web-desktop.png?height=0&width=480&matte=true&crop=false",
+        "positionTitle": "Junior Frontend Developer",
+        "experienceTime": 2,
+        "isFamiliar": false
+      },
+      {
+        "id": 6,
+        "name": "Azula",
+        "photo": "http://1.bp.blogspot.com/_6d_5f95-erU/TFiDoh6okUI/AAAAAAAAABY/8xNgn1G-59k/s1600/azula.jpg",
+        "positionTitle": "Product Manager",
+        "experienceTime": 5,
+        "isFamiliar": false
+      },
+      {
+        "id": 7,
+        "name": "Mai",
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCreUqaOPZaMxenppQbJBbM1FtuBRP-VuFHw&usqp=CAU",
+        "positionTitle": "Product Manager",
+        "experienceTime": 5,
+        "isFamiliar": false
+      },
+      {
+        "id": 8,
+        "name": "Ty Lee",
+        "photo": "https://cdn.donmai.us/original/9d/eb/__ty_lee_avatar_and_1_more_drawn_by_lavelis__9deb43e41943134515f7f035a5dfd35e.jpg",
+        "positionTitle": "Product Manager",
+        "experienceTime": 5,
+        "isFamiliar": false
+      },
+      {
+        "id": 9,
+        "name": "Iroh",
+        "photo": "https://static.wikia.nocookie.net/avatar/images/c/c1/Iroh_smiling.png/revision/latest?cb=20130626131914",
+        "positionTitle": "Product Manager",
+        "experienceTime": 5,
+        "isFamiliar": false
+      },
+      {
+        "id": 10,
+        "name": "Şeyma",
+        "photo": "https://playtusu.com/wp-content/uploads/2021/11/avatar-the-last-airbender.jpg",
+        "positionTitle": "Product Manager",
+        "experienceTime": 5,
+        "isFamiliar": false
+      }
+    ]
+  },
+  "2": {
+    "teamInformation": {
+      "teamName": "Mobile Web Team",
+      "logo": "https://www.dexerto.com/wp-content/uploads/2021/03/30/princess-azula-the-beach-avatar-the-last-airbender.jpg",
+      "slogan": "Best team home team",
+      "description": "aşırı iyi bir evizdir"
+    },
+    "members": [
+      {
+        "id": 11,
+        "name": "Hazal",
+        "photo": "https://playtusu.com/wp-content/uploads/2021/11/avatar-the-last-airbender.jpg",
+        "positionTitle": "Öğretmen",
+        "experienceTime": 2,
+        "isFamiliar": false
+      },
+      {
+        "id": 12,
+        "name": "Fadime",
+        "photo": "https://playtusu.com/wp-content/uploads/2021/11/avatar-the-last-airbender.jpg",
+        "positionTitle": "egonomijii",
+        "experienceTime": 5,
+        "isFamiliar": false
+      },
+      {
+        "id": 13,
+        "name": "Hazal",
+        "photo": "https://playtusu.com/wp-content/uploads/2021/11/avatar-the-last-airbender.jpg",
+        "positionTitle": "Öğretmen",
+        "experienceTime": 2,
+        "isFamiliar": false
+      },
+      {
+        "id": 14,
+        "name": "Fadime",
+        "photo": "https://playtusu.com/wp-content/uploads/2021/11/avatar-the-last-airbender.jpg",
+        "positionTitle": "egonomijii",
+        "experienceTime": 5,
+        "isFamiliar": false
+      },
+      {
+        "id": 15,
+        "name": "Hazal",
+        "photo": "https://playtusu.com/wp-content/uploads/2021/11/avatar-the-last-airbender.jpg",
+        "positionTitle": "Öğretmen",
+        "experienceTime": 2,
+        "isFamiliar": false
+      },
+      {
+        "id": 16,
+        "name": "Fadime",
+        "photo": "https://playtusu.com/wp-content/uploads/2021/11/avatar-the-last-airbender.jpg",
+        "positionTitle": "egonomijii",
+        "experienceTime": 5,
+        "isFamiliar": false
+      },
+      {
+        "id": 17,
+        "name": "Hazal",
+        "photo": "https://playtusu.com/wp-content/uploads/2021/11/avatar-the-last-airbender.jpg",
+        "positionTitle": "Öğretmen",
+        "experienceTime": 2,
+        "isFamiliar": false
+      },
+      {
+        "id": 18,
+        "name": "Fadime",
+        "photo": "https://playtusu.com/wp-content/uploads/2021/11/avatar-the-last-airbender.jpg",
+        "positionTitle": "egonomijii",
+        "experienceTime": 5,
+        "isFamiliar": false
+      },
+      {
+        "id": 19,
+        "name": "Hazal",
+        "photo": "https://playtusu.com/wp-content/uploads/2021/11/avatar-the-last-airbender.jpg",
+        "positionTitle": "Öğretmen",
+        "experienceTime": 2,
+        "isFamiliar": false
+      },
+      {
+        "id": 20,
+        "name": "Fadime",
+        "photo": "https://playtusu.com/wp-content/uploads/2021/11/avatar-the-last-airbender.jpg",
+        "positionTitle": "egonomijii",
+        "experienceTime": 5,
+        "isFamiliar": false
+      }
+    ]
+  }
+}

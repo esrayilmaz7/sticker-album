@@ -1,0 +1,54 @@
+@import "./common/variables.scss";
+
+.employee-details {
+  box-shadow: 1px 3px 6px 1px rgba(0, 0, 0, 0.1);
+  display: block;
+  margin: 0 0 30px 20px;
+  max-width: 190px;
+
+  &__photo {
+    height: 150px;
+    position: relative;
+    padding: 20px;
+    display: inline-block;
+    overflow: hidden;
+    text-align: center;
+
+    img {
+      width: 150px;
+      height: 150px;
+      transition: transform 0.3s ease;
+
+      &:hover {
+        transform: scale(1.1);
+      }
+    }
+  }
+
+  &__info {
+    text-align: center;
+
+    p {
+      margin: 0;
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
+    margin: 0 0 10px 5px;
+    max-width: 110px;
+
+    &__photo {
+      height: 100px;
+      padding: 5px;
+
+      img {
+        width: 100px;
+        height: 100px;
+      }
+    }
+
+    &__info p {
+      font-size: $p-font-size-mobile;
+    }
+  }
+}

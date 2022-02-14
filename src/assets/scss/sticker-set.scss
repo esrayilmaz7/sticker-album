@@ -1,0 +1,55 @@
+@import "./common/variables.scss";
+@import "./common/mixin.scss";
+
+.sticker-set {
+  @include center-items(column);
+  margin-right: 10px;
+
+  &__card {
+    @include center-items(column);
+    box-shadow: 1px 3px 6px 1px rgb(0 0 0 / 10%);
+    border: 1px solid $color-card-border;
+    border-right-width: thick;
+    margin-bottom: 10px;
+  }
+
+  &__logo {
+    width: 125px;
+    height: 125px;
+  }
+
+  &__button {
+    @include button(
+      $color-button,
+      $color-button-hover,
+      0 10px,
+      auto,
+      unset,
+      24px,
+      4px
+    );
+  }
+
+  @media only screen and (max-width: 600px) {
+    &__logo {
+      width: 100px;
+      height: 100px;
+    }
+
+    p {
+      font-size: $p-font-size-mobile;
+    }
+
+    &__button {
+      @include button(
+        $color-button,
+        $color-button-hover,
+        0 5px,
+        auto,
+        12px,
+        16px,
+        2px
+      );
+    }
+  }
+}
