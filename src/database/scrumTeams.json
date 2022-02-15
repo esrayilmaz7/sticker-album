@@ -3,15 +3,15 @@
     "teamInformation": {
       "teamName": "Web Team",
       "logo": "https://static1.srcdn.com/wordpress/wp-content/uploads/2020/06/Avatar-team-avatar.jpg?q=50&fit=crop&w=960&h=500&dpr=1.5",
-      "slogan": "Best team web team",
-      "description": "aşırı iyi bir takımızdır"
+      "slogan": "The excellent tech work!",
+      "description": "The excellent tech work"
     },
     "members": [
       {
         "id": 1,
         "name": "Aang",
         "photo": "https://playtusu.com/wp-content/uploads/2021/11/avatar-the-last-airbender.jpg",
-        "positionTitle": "Junior Frontend Developer",
+        "positionTitle": "Project Manager",
         "experienceTime": 2,
         "isFamiliar": false
       },
@@ -19,72 +19,72 @@
         "id": 2,
         "name": "Katara",
         "photo": "https://carboncostume.com/wordpress/wp-content/uploads/2020/04/Katara-from-Avatar-The-Last-Airbender.png",
-        "positionTitle": "Product Manager",
-        "experienceTime": 5,
+        "positionTitle": "Scrum Master",
+        "experienceTime": "1 yıl",
         "isFamiliar": false
       },
       {
         "id": 3,
         "name": "Zuko",
         "photo": "https://decider.com/wp-content/uploads/2020/06/avatar-zuko.jpg?quality=80&strip=all",
-        "positionTitle": "Junior Frontend Developer",
-        "experienceTime": 2,
+        "positionTitle": "Product Owner",
+        "experienceTime": "2 yıl",
         "isFamiliar": false
       },
       {
         "id": 4,
         "name": "Sokka",
         "photo": "https://i.pinimg.com/originals/bc/80/91/bc80918856287e30603198c6574ebfca.jpg",
-        "positionTitle": "Product Manager",
-        "experienceTime": 5,
+        "positionTitle": "Analyst",
+        "experienceTime": "1 ay",
         "isFamiliar": false
       },
       {
         "id": 5,
         "name": "Toph",
         "photo": "https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:kids-assets:/nick/properties/avatar/characters/toph-character-web-desktop.png?height=0&width=480&matte=true&crop=false",
-        "positionTitle": "Junior Frontend Developer",
-        "experienceTime": 2,
+        "positionTitle": "Frontend Developer",
+        "experienceTime": "5 yıl",
         "isFamiliar": false
       },
       {
         "id": 6,
         "name": "Azula",
         "photo": "http://1.bp.blogspot.com/_6d_5f95-erU/TFiDoh6okUI/AAAAAAAAABY/8xNgn1G-59k/s1600/azula.jpg",
-        "positionTitle": "Product Manager",
-        "experienceTime": 5,
+        "positionTitle": "Backend Developer",
+        "experienceTime": "5 ay",
         "isFamiliar": false
       },
       {
         "id": 7,
         "name": "Mai",
         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCreUqaOPZaMxenppQbJBbM1FtuBRP-VuFHw&usqp=CAU",
-        "positionTitle": "Product Manager",
-        "experienceTime": 5,
+        "positionTitle": "Android Developer",
+        "experienceTime": "8 yıl",
         "isFamiliar": false
       },
       {
         "id": 8,
         "name": "Ty Lee",
         "photo": "https://cdn.donmai.us/original/9d/eb/__ty_lee_avatar_and_1_more_drawn_by_lavelis__9deb43e41943134515f7f035a5dfd35e.jpg",
-        "positionTitle": "Product Manager",
-        "experienceTime": 5,
+        "positionTitle": "IOS Developer",
+        "experienceTime": "3 ay",
         "isFamiliar": false
       },
       {
         "id": 9,
         "name": "Iroh",
-        "photo": "https://static.wikia.nocookie.net/avatar/images/c/c1/Iroh_smiling.png/revision/latest?cb=20130626131914",
-        "positionTitle": "Product Manager",
-        "experienceTime": 5,
+        "photo": "https://upload.wikimedia.org/wikipedia/en/b/bb/General_Iroh.jpg",
+        "positionTitle": "Designer",
+        "experienceTime": "1 yıl",
         "isFamiliar": false
       },
       {
         "id": 10,
-        "name": "Şeyma",
-        "photo": "https://playtusu.com/wp-content/uploads/2021/11/avatar-the-last-airbender.jpg",
-        "positionTitle": "Product Manager",
-        "experienceTime": 5,
+        "name": "King Bumi",
+        "photo": "https://miro.medium.com/max/500/0*V5t01ilrdjaypr8H.jpg",
+        "positionTitle": "QA Lead",
+        "experienceTime": "3 yıl",
         "isFamiliar": false
       }
     ]
@@ -92,89 +92,179 @@
   "2": {
     "teamInformation": {
       "teamName": "Mobile Web Team",
-      "logo": "https://www.dexerto.com/wp-content/uploads/2021/03/30/princess-azula-the-beach-avatar-the-last-airbender.jpg",
+      "logo": "https://i.kanald.com.tr/i/kanald/70/1200x630/5f299c94ebc8301624996769.jpg",
       "slogan": "Best team home team",
       "description": "aşırı iyi bir evizdir"
     },
     "members": [
       {
         "id": 11,
-        "name": "Hazal",
-        "photo": "https://playtusu.com/wp-content/uploads/2021/11/avatar-the-last-airbender.jpg",
-        "positionTitle": "Öğretmen",
-        "experienceTime": 2,
+        "name": "Harry Potter",
+        "photo": "https://upload.wikimedia.org/wikipedia/tr/6/61/HarryPotterOotP.jpg",
+        "positionTitle": "Project Manager",
+        "experienceTime": "6 yıl",
         "isFamiliar": false
       },
       {
         "id": 12,
-        "name": "Fadime",
-        "photo": "https://playtusu.com/wp-content/uploads/2021/11/avatar-the-last-airbender.jpg",
-        "positionTitle": "egonomijii",
-        "experienceTime": 5,
+        "name": "Ron Weasley",
+        "photo": "https://upload.wikimedia.org/wikipedia/tr/6/6d/RON_COS.jpg",
+        "positionTitle": "Scrum Master",
+        "experienceTime": "8 ay",
         "isFamiliar": false
       },
       {
         "id": 13,
-        "name": "Hazal",
-        "photo": "https://playtusu.com/wp-content/uploads/2021/11/avatar-the-last-airbender.jpg",
-        "positionTitle": "Öğretmen",
-        "experienceTime": 2,
+        "name": "Hermione Granger",
+        "photo": "https://upload.wikimedia.org/wikipedia/tr/d/d3/Hermione_Granger_poster.jpg",
+        "positionTitle": "Product Owner",
+        "experienceTime": "4 yıl",
         "isFamiliar": false
       },
       {
         "id": 14,
-        "name": "Fadime",
-        "photo": "https://playtusu.com/wp-content/uploads/2021/11/avatar-the-last-airbender.jpg",
-        "positionTitle": "egonomijii",
-        "experienceTime": 5,
+        "name": "Rubeus Hagrid",
+        "photo": "https://upload.wikimedia.org/wikipedia/tr/f/fe/Rubeus_Hagrid.png",
+        "positionTitle": "Analyst",
+        "experienceTime": "9 ay",
         "isFamiliar": false
       },
       {
         "id": 15,
-        "name": "Hazal",
-        "photo": "https://playtusu.com/wp-content/uploads/2021/11/avatar-the-last-airbender.jpg",
-        "positionTitle": "Öğretmen",
-        "experienceTime": 2,
+        "name": "Headmaster Albus Dumbledore",
+        "photo": "https://i.pinimg.com/originals/63/fd/99/63fd99d3a54a43c8fcebe80aac948ba9.png",
+        "positionTitle": "Frontend Developer",
+        "experienceTime": "1 yıl",
         "isFamiliar": false
       },
       {
         "id": 16,
-        "name": "Fadime",
-        "photo": "https://playtusu.com/wp-content/uploads/2021/11/avatar-the-last-airbender.jpg",
-        "positionTitle": "egonomijii",
-        "experienceTime": 5,
+        "name": "Professor Minerva McGonagall",
+        "photo": "https://i.pinimg.com/236x/dc/d3/8e/dcd38e0b56a1dee57de4f67fb9105ebf--hogwarts-professors-happy-birthday.jpg",
+        "positionTitle": "Backend Developer",
+        "experienceTime": "1 yıl",
         "isFamiliar": false
       },
       {
         "id": 17,
-        "name": "Hazal",
-        "photo": "https://playtusu.com/wp-content/uploads/2021/11/avatar-the-last-airbender.jpg",
-        "positionTitle": "Öğretmen",
-        "experienceTime": 2,
+        "name": "Professor Severus Snape",
+        "photo": "https://i.insider.com/5f481169cd2fec00296a4a64?width=700",
+        "positionTitle": "Android Developer",
+        "experienceTime": "2 ay",
         "isFamiliar": false
       },
       {
         "id": 18,
-        "name": "Fadime",
-        "photo": "https://playtusu.com/wp-content/uploads/2021/11/avatar-the-last-airbender.jpg",
-        "positionTitle": "egonomijii",
-        "experienceTime": 5,
+        "name": "Professor Quirrell",
+        "photo": "https://imgix.bustle.com/rehost/2016/9/13/23ff4510-5881-4b82-a7ba-55fc73b3a5fa.png?w=800&fit=crop&crop=faces&auto=format%2Ccompress",
+        "positionTitle": "IOS Developer",
+        "experienceTime": "1 yıl",
         "isFamiliar": false
       },
       {
         "id": 19,
-        "name": "Hazal",
-        "photo": "https://playtusu.com/wp-content/uploads/2021/11/avatar-the-last-airbender.jpg",
-        "positionTitle": "Öğretmen",
-        "experienceTime": 2,
+        "name": "George Weasley",
+        "photo": "https://fantastikcanavarlar.com/wp-content/uploads/2016/07/Weasley-Kardesler-Zumruduanka-Yoldasligi.jpg",
+        "positionTitle": "Designer",
+        "experienceTime": "2 yıl",
         "isFamiliar": false
       },
       {
         "id": 20,
-        "name": "Fadime",
-        "photo": "https://playtusu.com/wp-content/uploads/2021/11/avatar-the-last-airbender.jpg",
-        "positionTitle": "egonomijii",
-        "experienceTime": 5,
+        "name": "Lord Voldemort",
+        "photo": "https://upload.wikimedia.org/wikipedia/tr/thumb/e/e9/Ralphfiennesvoldemort.jpg/640px-Ralphfiennesvoldemort.jpg",
+        "positionTitle": "QA Lead",
+        "experienceTime": "3 yıl",
+        "isFamiliar": false
+      }
+    ]
+  },
+  "3": {
+    "teamInformation": {
+      "teamName": "Android Team",
+      "logo": "https://media.distractify.com/brand-img/WYDnRNEXn/0x0/is-corpse-bride-disney-plus-1602165671515.jpg",
+      "slogan": "Best team home team",
+      "description": "aşırı iyi bir evizdir"
+    },
+    "members": [
+      {
+        "id": 31,
+        "name": "Corpse Bride",
+        "photo": "https://cdn.costumewall.com/wp-content/uploads/2018/09/emily-corpse-bride.jpg",
+        "positionTitle": "Project Manager",
+        "experienceTime": "2 yıl",
+        "isFamiliar": false
+      },
+      {
+        "id": 32,
+        "name": "Victor",
+        "photo": "https://64.media.tumblr.com/e62df8a90e3dd5bf8062c36f0c52e14a/tumblr_inline_o13yhiw0ra1rz2gik_500.jpg",
+        "positionTitle": "Product Owner",
+        "experienceTime": "5 yıl",
+        "isFamiliar": false
+      },
+      {
+        "id": 33,
+        "name": "Victoria",
+        "photo": "https://i.pinimg.com/736x/1c/ab/ef/1cabeffb91a77bccc576cc5af8719ce1.jpg",
+        "positionTitle": "Analyst",
+        "experienceTime": "6 ay",
+        "isFamiliar": false
+      },
+      {
+        "id": 34,
+        "name": "Maggot",
+        "photo": "https://i.pinimg.com/originals/88/27/09/88270994fcec3d5cdcf24ac49952f90c.jpg",
+        "positionTitle": "Frontend Developer",
+        "experienceTime": "1 yıl",
+        "isFamiliar": false
+      },
+      {
+        "id": 35,
+        "name": "Barkis Bittern",
+        "photo": "https://64.media.tumblr.com/45cbcf0a3df6928876341c81c522e4ab/tumblr_inline_ofxcqeW1VK1undx97_1280.jpg",
+        "positionTitle": "Backend Developer",
+        "experienceTime": "4 yıl",
+        "isFamiliar": false
+      },
+      {
+        "id": 36,
+        "name": "Bonejangles",
+        "photo": "https://image.invaluable.com/housePhotos/profilesinhistory/79/428979/H3257-L48772792.jpg",
+        "positionTitle": "Android Developer",
+        "experienceTime": "9 ay",
+        "isFamiliar": false
+      },
+      {
+        "id": 37,
+        "name": "Finis Everglot",
+        "photo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b4ea2469-4e39-479d-bef5-0c13ff79df29/dcis7mv-781ee726-39fe-4648-885a-4ecea5b83b43.jpg/v1/fill/w_800,h_595,q_75,strp/finis_everglot__corpse_bride__by_vint1k_dcis7mv-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTk1IiwicGF0aCI6IlwvZlwvYjRlYTI0NjktNGUzOS00NzlkLWJlZjUtMGMxM2ZmNzlkZjI5XC9kY2lzN212LTc4MWVlNzI2LTM5ZmUtNDY0OC04ODVhLTRlY2VhNWI4M2I0My5qcGciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.2Pq4JXLVinEErCGTZNz5Nbkgl640VijhEZJ_cdotAUU",
+        "positionTitle": "IOS Developer",
+        "experienceTime": "1 ay",
+        "isFamiliar": false
+      },
+      {
+        "id": 38,
+        "name": "Maudeline Everglot",
+        "photo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b4ea2469-4e39-479d-bef5-0c13ff79df29/d7rh78f-0dcaa3a6-1773-40d1-a1d6-5813bfca70ee.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I0ZWEyNDY5LTRlMzktNDc5ZC1iZWY1LTBjMTNmZjc5ZGYyOVwvZDdyaDc4Zi0wZGNhYTNhNi0xNzczLTQwZDEtYTFkNi01ODEzYmZjYTcwZWUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lCz4yqDDRSEl-JKefWcMhEI7bu4dH2lu3MXPPvDPHSQ",
+        "positionTitle": "Scrum Master",
+        "experienceTime": "3 yıl",
+        "isFamiliar": false
+      },
+      {
+        "id": 39,
+        "name": "Mayhew",
+        "photo": "http://4.bp.blogspot.com/_c0Fx9w6DelI/TL7ZeQg7GQI/AAAAAAAAAoM/1RVIo2xtW6E/s1600/IMG_0891.JPG",
+        "positionTitle": "Designer",
+        "experienceTime": "2 yıl",
+        "isFamiliar": false
+      },
+      {
+        "id": 40,
+        "name": "Pastor Galswells",
+        "photo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b4ea2469-4e39-479d-bef5-0c13ff79df29/d7t46ox-fcb3f542-e52f-44f9-ac26-f6e99acfd904.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I0ZWEyNDY5LTRlMzktNDc5ZC1iZWY1LTBjMTNmZjc5ZGYyOVwvZDd0NDZveC1mY2IzZjU0Mi1lNTJmLTQ0ZjktYWMyNi1mNmU5OWFjZmQ5MDQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZOhnCVOxdGjxk5lTCGG_ozzXoyaAAgnPxaSP4nL4Jxs",
+        "positionTitle": "QA Lead",
+        "experienceTime": "1 yıl",
         "isFamiliar": false
       }
     ]
